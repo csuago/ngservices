@@ -1,0 +1,19 @@
+{
+  "name": "ngservices",
+  "version": "0.0.0",
+  "description": "services to Angular 2 at Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csuago/ngservices.git"
+  },
+  "author": "csuago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csuago/ngservices/issues"
+  },
+  "homepage": "https://github.com/csuago/ngservices#readme"
+}
